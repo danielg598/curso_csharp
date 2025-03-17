@@ -1,0 +1,1 @@
+aca voy a detallar puntos claves para el aprendizaje de c#
